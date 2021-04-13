@@ -1,9 +1,9 @@
-👋 Hi, I’m Emory 
-👀 I’m interested in UI/UX field
-🌱 I’m currently learning Web Developing Tools
-📫 You can send me an e-mail to aa774281@gmail.com
+👋 Hi, I’m Emory  
+👀 I’m interested in UI/UX field  
+🌱 I’m currently learning Web Developing Tools  
+📫 You can send me an e-mail to aa774281@gmail.com  
 -
-Finally , Nice to meet you
+Finally , Nice to meet you  
 
 <!---
 GuanYu914/GuanYu914 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
