@@ -1,7 +1,6 @@
 👋 Hi, I’m Emory  
 👀 I’m interested in UI/UX field  
 🌱 I’m currently learning Web Developing Tools  
-📫 You can send me an e-mail to aa774281@gmail.com  
 -
 Finally , Nice to meet you  
 
