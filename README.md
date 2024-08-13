@@ -1,6 +1,4 @@
 👋 Hi, I’m Emory  
-👀 I’m interested in UI/UX field  
-🌱 I’m currently learning Web Developing Tools  
 -
 Finally , Nice to meet you  
 
